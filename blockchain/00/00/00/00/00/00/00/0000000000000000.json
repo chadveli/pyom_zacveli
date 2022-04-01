@@ -1,0 +1,30 @@
+{
+  "actions": [
+    {
+      "type": "import_gpg_key",
+      "gpg": "DC897BAB536066ACB664154C13D60343191E2BCB",
+      "keyfile": {
+        "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+        "locidx": 0,
+        "filename": "public.key",
+        "SHA-512": "d96d3bad414be1ae0260bfd2669a16597e454f9cdab67872f4d8c25de4ebdb5914adf4ada58ea37925b762255f647e5100a39641efb14bc236dc1315cd7a3994"
+      },
+      "git_remote_urls": {
+        "origin": "git@github.com:zacveli/pyom_zacveli.git"
+      }
+    }
+  ],
+  "pyom_version": 1,
+  "pyom_block_magic": "bc1ae75a-7137-11ec-ab3c-2b53f48d31de",
+  "idx": 0,
+  "owner": {
+    "gpg": "DC897BAB536066ACB664154C13D60343191E2BCB"
+  },
+  "prev": {
+    "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+    "locidx": 0,
+    "filename": "public.key",
+    "SHA-512": "d96d3bad414be1ae0260bfd2669a16597e454f9cdab67872f4d8c25de4ebdb5914adf4ada58ea37925b762255f647e5100a39641efb14bc236dc1315cd7a3994"
+  },
+  "timestamp": "2022-04-01T08:38:23.759581+00:00"
+}
