@@ -1,0 +1,36 @@
+{
+  "actions": [
+    {
+      "type": "import_gpg_key",
+      "gpg": "11CF46444FC873ECEA2E20BA5348C0615BD1F116",
+      "keyfile": {
+        "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+        "locidx": 0,
+        "filename": "transactions/2022/04/01/2022-04-01T09:15:53.593278+00:00/11CF46444FC873ECEA2E20BA5348C0615BD1F116/11CF46444FC873ECEA2E20BA5348C0615BD1F116.key",
+        "SHA-512": "6d26541da7dd9a1f2c17120f31ab6bf2bb60e10977a455e9cc22d5cbe91a53b46dff53e1babb9155a21ed3a5b2501fedc058045a69ff606a412e4a5e6bdfd2b4"
+      },
+      "git_remote_urls": {
+        "origin": "git@github.com:zacveli/pyom_chadveli.git"
+      }
+    },
+    {
+      "type": "register_transaction",
+      "transaction": {
+        "pyom_fileref_magic": "4885be82-7524-11ec-997c-f3c69ad4da31",
+        "locidx": 0,
+        "filename": "transactions/2022/04/01/2022-04-01T09:15:53.593278+00:00/transaction.json",
+        "SHA-512": "b5eb9df1f58ccb45d9d7938e0a138b5221a7fb6fd176b7965d639f79c44f5164c2d2d47fec0e170dd0583a2bd1d6d4e2dbce503590fda088c298f5f28638adb2"
+      },
+      "locations": [
+        {
+          "locidx": 0,
+          "filename": "."
+        },
+        {
+          "locidx": 0,
+          "filename": "transactions/2022/04/01/2022-04-01T09:15:53.593278+00:00"
+        }
+      ]
+    }
+  ]
+}
